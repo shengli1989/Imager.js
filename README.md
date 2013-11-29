@@ -1,4 +1,4 @@
-# Imager.js
+# Imager.js (本份文件尚未支援 retina，需要使用 refactoring-base branch 中的 imager.js 才能解決)
 
  * Website: http://responsivenews.co.uk/
  * Source: http://github.com/bbc-news/Imager.js
