@@ -1,5 +1,7 @@
-# Imager.js (本份文件尚未支援 retina，需要使用 refactoring-base branch 中的 imager.js 才能解決)
+# Imager.js
 
+
+ * 本份文件尚未支援 retina，需要使用 refactoring-base branch 中的 imager.js 才能解決
  * Website: http://responsivenews.co.uk/
  * Source: http://github.com/bbc-news/Imager.js
 
@@ -26,7 +28,7 @@ For the purpose of one of our demo/examples we've used the 3rd party service [Pl
 
 But you'll also find Grunt based demos that show the basic functionality as well as how lazy loading works.
 
-## Using Imager.js
+## 使用 Imager.js
 
 See each of the Demo directories for full examples and source files.
 
